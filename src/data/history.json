@@ -1,0 +1,30 @@
+  [
+    {
+      "role": "Frontend Engineer Intern",
+      "organisation": "Cloudware Technologies",
+      "startDate": "Dec, 2024",
+      "endDate": "Present",
+      "experiences": ["Practiced HTML, CSS and JavaScript", "Worked on few projects"],
+      "imageSrc": "history/cloud.svg"
+    },
+    {
+      "role": "Assistant Site Engineer Intern",
+      "organisation": "monumental Stone Construction",
+      "startDate": "March, 2023",
+      "endDate": "Oct, 2023",
+      "experiences": ["Worked on a building project", "supervised and inspect construction works"],
+      "imageSrc": "history/work.svg"
+    },
+    {
+      "role": "Office manager/ site supervisor Intern",
+      "organisation": "Ministry of works, Alausa ikeja",
+      "startDate": "Apr, 2022",
+      "endDate": "July, 2022",
+      "experiences": [
+        "renovation on residential buildings",
+        "Helped to manage offices"
+      ],
+      "imageSrc": "history/work.svg"
+    }
+  ]
+  

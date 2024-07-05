@@ -1,0 +1,27 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn how to use HTML, CSS, and Bootscrap.",
+      "skills": ["HTML", "CSS", "Bootscrapt"],
+      "demo": "https://olayinkaadeoti.github.io/KB-PROJECTS/",
+      "source": "https://github.com/OlayinkaAdeoti/KB-PROJECTS"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn the JavaScript by adding it to the website.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://e-commerce-sable-chi.vercel.app/",
+      "source": "https://github.com/OlayinkaAdeoti/e-commerce"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project made to learn how to use HTML, CSS and JavaScript together.",
+      "skills": ["HTML", "CSS", "JavaScript"],
+      "demo": "https://github.com/OlayinkaAdeoti/newproject",
+      "source": "https://newproject-qr6v.vercel.app/index.html"
+    }
+  ]
+  
