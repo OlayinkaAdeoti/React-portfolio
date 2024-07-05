@@ -32,7 +32,7 @@ export const Contact = () => {
 
       
     </footer>
-    <p className={styles.copy}>Olayinka Adeoti || All Rights Reserved ||copyright @ {2024}</p>
+    <p className={styles.copy}>All Rights Reserved ||copyright @ {2024}</p>
     </>
   )
 };
